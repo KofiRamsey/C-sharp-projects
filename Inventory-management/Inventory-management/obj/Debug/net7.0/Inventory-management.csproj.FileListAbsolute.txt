@@ -1,0 +1,15 @@
+D:\PROJECTS\C#\Inventory-management\Inventory-management\bin\Debug\net7.0\Inventory-management.exe
+D:\PROJECTS\C#\Inventory-management\Inventory-management\bin\Debug\net7.0\Inventory-management.deps.json
+D:\PROJECTS\C#\Inventory-management\Inventory-management\bin\Debug\net7.0\Inventory-management.runtimeconfig.json
+D:\PROJECTS\C#\Inventory-management\Inventory-management\bin\Debug\net7.0\Inventory-management.dll
+D:\PROJECTS\C#\Inventory-management\Inventory-management\bin\Debug\net7.0\Inventory-management.pdb
+D:\PROJECTS\C#\Inventory-management\Inventory-management\obj\Debug\net7.0\Inventory-management.csproj.AssemblyReference.cache
+D:\PROJECTS\C#\Inventory-management\Inventory-management\obj\Debug\net7.0\Inventory-management.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\C#\Inventory-management\Inventory-management\obj\Debug\net7.0\Inventory-management.AssemblyInfoInputs.cache
+D:\PROJECTS\C#\Inventory-management\Inventory-management\obj\Debug\net7.0\Inventory-management.AssemblyInfo.cs
+D:\PROJECTS\C#\Inventory-management\Inventory-management\obj\Debug\net7.0\Inventory-management.csproj.CoreCompileInputs.cache
+D:\PROJECTS\C#\Inventory-management\Inventory-management\obj\Debug\net7.0\Inventory-management.dll
+D:\PROJECTS\C#\Inventory-management\Inventory-management\obj\Debug\net7.0\refint\Inventory-management.dll
+D:\PROJECTS\C#\Inventory-management\Inventory-management\obj\Debug\net7.0\Inventory-management.pdb
+D:\PROJECTS\C#\Inventory-management\Inventory-management\obj\Debug\net7.0\Inventory-management.genruntimeconfig.cache
+D:\PROJECTS\C#\Inventory-management\Inventory-management\obj\Debug\net7.0\ref\Inventory-management.dll
